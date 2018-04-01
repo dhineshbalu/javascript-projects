@@ -1,0 +1,68 @@
+
+h1
+{
+  color:white;
+  font-size: 30px;
+  text-align: center;
+  font-variant: small-caps;
+
+}
+h3
+{
+  color:white;
+  font-size: 25px;
+    text-align: center;
+    font-style: italic;
+}
+#h1
+{
+  color:black;
+  border-radius: 50%;
+  padding: 7px;
+  position: relative;
+  left:600px;
+  background-color: white;
+  width: 200px;
+    text-align: center;
+}
+#h2
+{
+    color:black;
+  border-radius: 50%;
+  padding: 7px;
+  position: relative;
+  left:600px;
+  background-color: white;
+  width: 200px;
+    text-align: center;
+}
+form
+{
+  border-radius:25%;
+  position: relative;
+  left:200px;
+  width: 1000px;
+  height: 600px;
+
+  text-align: center;
+}
+form label
+{
+  font-family:sans-serif;
+  font-size: 22px;
+  color:white;
+  font-style: italic;
+}
+form span
+{
+  font-size: 22px;
+  color:
+#ecff82
+;
+font-family:inherit;
+  font-variant: small-caps;
+}
+body{
+  background-image: url("12.jpg");
+  background-attachment: fixed;
+}
